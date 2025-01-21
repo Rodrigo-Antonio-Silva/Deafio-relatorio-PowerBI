@@ -7,7 +7,7 @@
 
 
 ## 📌 Descrição do Projeto
-Este projeto utiliza o **Power BI** para criar uma análise visual detalhada de dados trimestrais. O objetivo principal é fornecer insights relevantes sobre desempenho, tendências e outros indicadores ao longo dos períodos analisados.
+Este projeto utiliza o **Power BI** para criar uma análise visual detalhada de dados. O objetivo principal é fornecer insights relevantes sobre desempenho, tendências e outros indicadores ao longo dos períodos analisados.
 
 
 ## 🔍 Funcionalidades do Relatório
