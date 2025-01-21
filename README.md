@@ -1,9 +1,14 @@
+
 # 📊 Power BI Project - Desafio Dio
+
+![image](https://github.com/user-attachments/assets/ab3586ca-4757-40e3-87b3-79ea24012e7d)
+
+![image](https://github.com/user-attachments/assets/e86d9d77-725a-4661-b6f1-a646e98d702d)
+
 
 ## 📌 Descrição do Projeto
 Este projeto utiliza o **Power BI** para criar uma análise visual detalhada de dados trimestrais. O objetivo principal é fornecer insights relevantes sobre desempenho, tendências e outros indicadores ao longo dos períodos analisados.
 
-[🔗 Acesse o Relatório no Power BI](https://app.powerbi.com/groups/me/reports/624284c4-417e-42fc-b3cb-7b2d0fa92a39/ac276366b1c32101df57?language=en-US&experience=power-bi&bookmarkGuid=04131691a56988236d35)
 
 ## 🔍 Funcionalidades do Relatório
 - **Visualização Trimestral e Anual**: Agrupa os dados por trimestre e ano para facilitar a análise de tendências ao longo do tempo.
