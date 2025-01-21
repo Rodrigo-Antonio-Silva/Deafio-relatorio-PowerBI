@@ -1,5 +1,5 @@
 # Deafio-relatorio-PowerBI
-# 📊 Power BI Project - Análise Trimestral
+# 📊 Power BI Project - Desafio Dio
 
 ## 📌 Descrição do Projeto
 Este projeto utiliza o **Power BI** para criar uma análise visual detalhada de dados trimestrais. O objetivo principal é fornecer insights relevantes sobre desempenho, tendências e outros indicadores ao longo dos períodos analisados.
